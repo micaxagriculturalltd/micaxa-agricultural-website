@@ -1,0 +1,2 @@
+[Optional placeholder for hero background image]
+You can add a photo named hero-bg.jpg (e.g., crops, fields) in the assets/ folder.

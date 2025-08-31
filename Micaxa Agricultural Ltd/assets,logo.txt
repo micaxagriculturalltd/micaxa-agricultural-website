@@ -1,0 +1,2 @@
+[Placeholder for logo image]
+Save your company logo as logo.png in the assets/ folder.

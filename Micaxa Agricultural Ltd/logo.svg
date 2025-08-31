@@ -1,0 +1,8 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="90" fill="#3e7d34"/>
+  <ellipse cx="256" cy="310" rx="180" ry="120" fill="#a3c585"/>
+  <path d="M120 310 Q256 130, 392 310" stroke="#3e7d34" stroke-width="17" fill="none"/>
+  <circle cx="256" cy="290" r="66" fill="#f7fbe7" stroke="#3e7d34" stroke-width="9"/>
+  <text x="256" y="410" text-anchor="middle" font-size="64" font-family="Segoe UI, Verdana, Arial, sans-serif" font-weight="bold" fill="#f7fbe7">Micaxa</text>
+  <text x="256" y="455" text-anchor="middle" font-size="26" font-family="Segoe UI, Verdana, Arial, sans-serif" fill="#a3c585">Agricultural Ltd</text>
+</svg>
